@@ -23,4 +23,13 @@ for gColor in ["yellow","red","purple","blue"]:
     github.forward(180)
     github.right(90)
 git.exitonclick()
+#naming 
+
+v=range(9)
+tot=7
+for num in v:
+    print(num)
+    tot /= 9
+print(tot) 
+    
 
